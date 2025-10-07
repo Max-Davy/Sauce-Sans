@@ -11,7 +11,7 @@
 <mono>false</mono>
 <full_name>Sauce Sans Regular</full_name>
 <unique_identifier>Typeface</unique_identifier>
-<version>Version 1.4</version>
+<version>Version 1.6</version>
 <description>Font inspired by William Osman&apos;s OpenSauce</description>
 <copyright>©Max Davy 2025</copyright>
 <license>CC BY-NC 4.0 Attribution-Non-Commercial 4.0 International</license>
@@ -813,7 +813,7 @@
 
 <collection unicode="U+6e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="-6" right="37.5" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 0.03269,0.00335 L 0.03269,56.25335 L 31.26749,56.2237 D 32.48922,56.28319 34.80219,55.33428 35.69417,54.41484 D 36.55174,53.55507 37.53031,51.27175 37.50304,49.9832 L 37.53269,0.00335 L 25.03269,0.00335 L 25.03269,43.75335 L 12.53269,43.75335 L 12.53269,0.00335 L 0.03269,0.00335" />
 		</layer>
@@ -888,7 +888,7 @@
 
 <collection unicode="U+76" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="-4" right="37.5" zero_width="false">
+	<glyph id="1" left="-6" right="37.5" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 4.06028,6.54003 D 2.93801,7.00004 2.03067,7.92031 2.0276,7.92348 D 1.18865,8.73221 0.19924,11.15908 0.21375,12.42315 L 0.07289,55.91436 L 12.52524,55.91436 L 12.52524,16.2254 L 25.01673,16.2254 L 25.01673,55.91436 L 37.46907,55.91436 L 37.53465,12.34445 D 37.54933,11.10927 36.55993,8.8831 35.71165,7.92652 D 35.67172,7.88594 34.86025,7.03633 33.71729,6.53227 C 28.80147,4.12146 26.05186,2.81539 20.97486,0.39848 Q 19.86522,-0.05452 18.82329,0.00334 Q 17.61397,-0.00296 16.45284,0.45471 Q 13.05072,2.17095 4.06028,6.54003" />
 		</layer>
@@ -915,7 +915,7 @@
 
 <collection unicode="U+79" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="-6" right="37.5" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 0.01227,-12.54834 L 0.01227,-0.04834 L 25.01227,-0.04834 L 25.01227,6.20166 L 6.31688,6.20166 D 5.11012,6.19193 2.75605,7.14219 1.86961,8.0374 D 0.9851,8.91315 0.03483,11.22403 0.03387,12.50739 L 0.01227,56.20166 L 12.51227,56.20166 L 12.51227,18.70166 L 25.01227,18.70166 L 25.01227,56.20166 L 37.51227,56.20166 L 37.5378,-6.26599 D 37.53414,-7.51851 36.56409,-9.84151 35.67428,-10.71036 D 34.82821,-11.57739 32.5052,-12.54744 31.21921,-12.57387 L 0.01227,-12.54834" />
 		</layer>
