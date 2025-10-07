@@ -77,7 +77,7 @@
 
 <collection unicode="U+21" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,0 L 6.25,12.5 L 18.75,12.5 L 18.75,0 L 6.25,0" />
 			<path data="S 6.25,18.75 L 6.25,75 L 18.75,75 L 18.75,18.75 L 6.25,18.75" />
@@ -87,7 +87,7 @@
 
 <collection unicode="U+22" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="0" right="38" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,50 L 6.25,75 L 18.75,75 L 18.75,50 L 6.25,50" />
 			<path data="S 25,50 L 25,75 L 37.5,75 L 37.5,50 L 25,50" />
@@ -127,7 +127,7 @@
 
 <collection unicode="U+26" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="-6" right="37.5" zero_width="false">
+	<glyph id="1" left="-6" right="38" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 19.2869,43.49324 D 19.2869,35.68074 19.2869,20.05574 19.2869,12.24324 D 22.4119,12.24324 23.64111,12.24324 25.09252,12.24324 L 25.09252,-0.25676 D 22.08651,-0.24354 17.74809,-0.21712 13.06848,-0.20391 D 11.82505,-0.21417 9.52611,0.73712 8.66305,1.64582 D 7.78208,2.50757 6.84096,4.75606 6.8428,5.99276 C 6.83219,19.0403 6.82782,29.90423 6.80948,43.48213 C 4.01075,43.48189 2.48001,43.52218 0.02348,43.53386 C -0.0175,46.9059 0.02404,54.70154 0.02216,56.04444 C 2.72171,56.00974 4.09131,56.00974 6.86881,56.00702 C 6.83226,64.73264 6.76399,68.81735 6.75676,74.58212 D 15.06522,74.63072 25.44387,74.73493 31.68213,74.7279 D 32.87804,74.75582 35.21083,73.80022 36.0855,72.90102 D 36.95339,72.02955 37.9652,69.75298 37.94048,68.47515 L 37.94048,49.77811 D 37.96923,48.47423 36.97337,46.21696 36.11475,45.29796 D 35.28042,44.45761 32.95675,43.49495 31.67345,43.50542 L 19.2869,43.49324" />
 			<path data="S 24.99402,56.27157 L 24.99402,62.4935 L 18.74402,62.4935 L 18.74402,56.27157 L 24.99402,56.27157" />
@@ -137,7 +137,7 @@
 
 <collection unicode="U+27" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,56.25 L 6.25,75 L 18.75,75 L 18.75,56.25 L 6.25,56.25" />
 		</layer>
@@ -146,7 +146,7 @@
 
 <collection unicode="U+28" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="25" zero_width="false">
+	<glyph id="1" left="0" right="26" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 12.5,-12.5 D 11.26828,-12.58445 8.99434,-11.63697 8.04686,-10.70314 D 7.19413,-9.83677 6.3414,-7.56282 6.25,-6.25 L 6.25,75 D 6.24665,76.28888 7.19413,78.46807 7.95211,79.35839 D 8.99434,80.36303 11.17353,81.21576 12.5,81.25 L 25,81.25 L 25,68.75 L 18.75,68.75 L 18.75,0 L 25,0 L 25,-12.5 L 12.5,-12.5" />
 		</layer>
@@ -155,7 +155,7 @@
 
 <collection unicode="U+29" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="25" zero_width="false">
+	<glyph id="1" left="0" right="26" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 18.75166,81.27901 D 19.98338,81.36346 22.25732,80.41598 23.2048,79.48215 D 24.05753,78.61578 24.91026,76.34183 25.00166,75.02901 L 25.00166,-6.22099 D 25.00501,-7.50987 24.05753,-9.68906 23.29955,-10.57938 D 22.25732,-11.58402 20.07813,-12.43675 18.75166,-12.47099 L 6.25166,-12.47099 L 6.25166,0.02901 L 12.50166,0.02901 L 12.50166,68.77901 L 6.25166,68.77901 L 6.25166,81.27901 L 18.75166,81.27901" />
 		</layer>
@@ -164,7 +164,7 @@
 
 <collection unicode="U+2a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="0" right="38" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,43.75 L 6.25,56.25 L 12.5,56.25 L 12.5,62.5 L 6.25,62.5 L 6.25,75 L 18.75,75 L 18.75,68.75 L 25,68.75 L 25,75 L 37.5,75 L 37.5,62.5 L 31.25,62.5 L 31.25,56.25 L 37.5,56.25 L 37.5,43.75 L 25,43.75 L 25,50 L 18.75,50 L 18.75,43.75 L 6.25,43.75" />
 		</layer>
@@ -173,7 +173,7 @@
 
 <collection unicode="U+2b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="0" right="32" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 12.5,18.75 L 12.5,25 L 6.25,25 L 6.25,37.5 L 12.5,37.5 L 12.5,43.75 L 25,43.75 L 25,37.5 L 31.25,37.5 L 31.25,25 L 25,25 L 25,18.75 L 12.5,18.75" />
 		</layer>
@@ -182,7 +182,7 @@
 
 <collection unicode="U+2c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,-12.5 L 6.25,12.5 L 18.75,12.5 L 18.75,-12.5 L 6.25,-12.5" />
 		</layer>
@@ -191,7 +191,7 @@
 
 <collection unicode="U+2d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="0" right="32" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,25 L 6.25,37.5 L 31.25,37.5 L 31.25,25 L 6.25,25" />
 		</layer>
@@ -200,7 +200,7 @@
 
 <collection unicode="U+2e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,0 L 6.25,12.5 L 18.75,12.5 L 18.75,0 L 6.25,0" />
 		</layer>
@@ -219,7 +219,7 @@
 
 <collection unicode="U+2f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="0" right="38" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,0 D 15.84706,38.10556 15.84706,38.10556 25,75 L 37.5,75 D 27.59578,35.26313 27.50103,35.26313 18.75,0 L 6.25,0" />
 		</layer>
@@ -324,7 +324,7 @@
 
 <collection unicode="U+3a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,0 L 6.25,12.5 L 18.75,12.5 L 18.75,0 L 6.25,0" />
 			<path data="S 6.25,43.75 L 6.25,56.25 L 18.75,56.25 L 18.75,43.75 L 6.25,43.75" />
@@ -334,7 +334,7 @@
 
 <collection unicode="U+3b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="18.75" zero_width="false">
+	<glyph id="1" left="0" right="20" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,-12.5 L 6.25,12.5 L 18.75,12.5 L 18.75,-12.5 L 6.25,-12.5" />
 			<path data="S 6.25,43.75 L 6.25,56.25 L 18.75,56.25 L 18.75,43.75 L 6.25,43.75" />
@@ -344,7 +344,7 @@
 
 <collection unicode="U+3c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="0" right="32" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.21139,37.41981 L 6.23024,24.91982 D 18.7394,18.64492 18.7394,18.64492 31.24907,12.45754 L 31.23021,24.95753 L 18.30323,31.00749 D 25.9814,34.72709 26.06676,34.81271 31.21136,37.45751 L 31.19251,49.9575 D 18.53066,43.69183 18.53078,43.60634 6.21139,37.41981" />
 		</layer>
@@ -353,7 +353,7 @@
 
 <collection unicode="U+3d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="0" right="32" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,12.5 L 6.25,25 L 31.25,25 L 31.25,12.5 L 6.25,12.5" />
 			<path data="S 6.25,31.25 L 6.25,43.75 L 31.25,43.75 L 31.25,31.25 L 6.25,31.25" />
@@ -363,7 +363,7 @@
 
 <collection unicode="U+3e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="0" right="32" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 6.25,12.5 L 6.25,25 D 11.39859,27.63704 11.48407,27.72253 19.16785,31.43055 L 6.25,37.5 L 6.25,50 D 18.75032,43.79376 18.75032,43.79376 31.25,37.5 L 31.25,25 D 18.92129,18.83206 18.92129,18.74657 6.25,12.5" />
 		</layer>
@@ -372,7 +372,7 @@
 
 <collection unicode="U+3f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="37.5" zero_width="false">
+	<glyph id="1" left="0" right="38" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 12.5,0 L 12.5,12.5 L 25,12.5 L 25,0 L 12.5,0" />
 			<path data="S 12.5,18.75 D 19.35273,32.4207 19.35273,32.4207 25,43.75 L 25,62.5 L 18.75,62.5 L 18.75,56.25 L 6.25,56.25 L 6.15525,68.79214 D 6.15963,70.00326 7.15027,72.36194 8.0426,73.2074 D 8.89569,74.06019 11.25437,75.05083 12.45441,75.09475 L 31.21821,74.99622 D 32.4353,75.00366 34.84115,74.01301 35.66023,73.11306 D 36.5394,72.31477 37.48287,69.95609 37.5,68.73284 L 37.5,42.33213 D 32.23841,32.13646 32.23841,32.13646 25,18.75 L 12.5,18.75" />
@@ -504,7 +504,7 @@
 
 <collection unicode="U+4d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="50" zero_width="false">
+	<glyph id="1" left="-6" right="50" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S -0.06185,0 L -0.06185,75 L 18.86268,75.00255 D 20.04066,74.97031 22.40858,74.02852 23.26826,73.17645 D 24.13071,72.27949 25.15322,69.91157 25.14148,68.68215 D 25.14002,69.90883 26.05356,72.21957 26.94388,73.14933 D 27.82692,73.99292 30.19139,74.90647 31.35302,74.96325 L 43.77416,74.94626 D 44.96934,75.01394 47.28008,73.99292 48.17291,73.11917 D 48.9997,72.2733 49.96698,69.96257 50,68.74856 L 50,0 L 37.5,0 L 37.5,62.5 L 31.25,62.5 L 31.25,37.5 L 18.68815,37.5 L 18.68815,62.5 L 12.43815,62.5 L 12.43815,0 L -0.06185,0" />
 		</layer>
@@ -926,7 +926,7 @@
 	<selected id="1"/>
 	<glyph id="1" left="-6" right="37.5" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="S 0.01445,-0.04697 D 0.01445,4.63345 0.01445,14.4054 0.01445,15.63014 T D 0.01446,16.85488 0.92802,19.15346 1.87101,20.05191 D 13.19261,32.15074 14.80809,33.8905 24.91573,43.70303 L 0.01445,43.70303 L 0.01445,56.20303 L 37.51445,56.20303 D 37.52873,52.48458 37.59637,45.76001 37.57156,41.32923 D 37.53285,40.03466 36.57642,37.71177 35.64998,36.84989 D 24.50101,25.19172 23.50687,24.38398 12.51445,12.45303 L 37.51445,12.45303 L 37.51445,-0.04697 L 0.01445,-0.04697" />
+			<path data="S 0.01445,-0.04697 D 0.01445,4.63345 0.01444,14.4054 0.01445,15.63014 T D 0.01446,16.85488 0.92802,19.15346 1.87101,20.05191 D 13.19261,32.15074 14.80809,33.8905 24.91573,43.70303 L 0.01445,43.70303 L 0.01445,56.20303 L 37.51445,56.20303 D 37.52873,52.48458 37.59637,45.76001 37.57156,41.32923 D 37.53285,40.03466 36.57642,37.71177 35.64998,36.84989 D 24.50101,25.19172 23.50687,24.38398 12.51445,12.45303 L 37.51445,12.45303 L 37.51445,-0.04697 L 0.01445,-0.04697" />
 		</layer>
 	</glyph>
 </collection>
