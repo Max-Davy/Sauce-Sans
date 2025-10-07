@@ -572,7 +572,7 @@
 
 <collection unicode="U+54" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
-	<glyph id="1" left="0" right="31.25" zero_width="false">
+	<glyph id="1" left="-6" right="31.25" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S 9.43971,0 L 9.43971,62.5 L 0.03378,62.5 L 0.03378,75 L 31.34563,75 L 31.34563,62.5 L 21.93971,62.5 L 21.93971,0 L 9.43971,0" />
 		</layer>
